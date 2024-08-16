@@ -1,4 +1,4 @@
-# S-ManagementSystem
+# S++Management System
 A Desktop  Based College Management System for College Made in 45 Days Training Program in 2022 Using Python[Tkinter] and MySQL DataBase.
 
 S++ COLLEGE MANAGEMENT SYSTEM	July’2022– Aug.’2022
